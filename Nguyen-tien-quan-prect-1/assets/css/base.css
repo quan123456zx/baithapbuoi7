@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+:root{
+    --colore-one:#fff;
+    --colore-two:#000;
+    --font: 'Inria Serif', serif;
+}
+/* body{
+    position: relative;
+} */
+*{
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+a{
+    text-decoration: none
+}
+.box{
+    width: 100%;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
